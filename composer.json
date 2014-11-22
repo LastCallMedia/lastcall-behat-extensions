@@ -1,0 +1,16 @@
+{
+  "name": "lastcall/Behat",
+  "description": "Behat Drupal customizations for Last Call Media",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "authors": [
+    {
+      "name": "Rob Bayliss",
+      "email": "rob@lastcallmedia.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "lastcall\\Behat\\": "" }
+  }
+}
