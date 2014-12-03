@@ -1,6 +1,6 @@
 <?php
 
-namespace lastcall\behat\Tests\Composer;
+namespace lastcall\Behat\Tests\Composer;
 
 use Composer\IO\NullIO;
 use Composer\Util\ConfigValidator;
